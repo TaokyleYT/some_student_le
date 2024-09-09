@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "really-not-good"
+name = "some-student-le"
 version = "1.0.1"
-description = "some student le really not good (by Dr Lo, my math teacher)"
+description = "really not good (by Dr Lo, my math teacher)"
 authors = ["Taokyle <taokyle415@gmail.com>"]
 readme = "README.md"
 

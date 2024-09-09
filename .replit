@@ -1,5 +1,6 @@
 run = "python main.py"
 modules = ["python-3.11"]
+hidden=["some_student_le_PyPI"]
 
 [nix]
 channel = "stable-22_11"
