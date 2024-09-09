@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "some-student-le"
-version = "0.1.0"
+version = "0.0.0"
 description = "really not good (by Dr Lo, my math teacher)"
 authors = ["Taokyle <taokyle415@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.8"
 
 
 [build-system]

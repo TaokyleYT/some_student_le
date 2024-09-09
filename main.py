@@ -1,4 +1,4 @@
-from some_student_le.really_not_good import *
+from some_student_le import *
 import random
 print("hello there! Lets play a game.")
 op = ["+","-","*","/"][random.randint(0, 3)]
